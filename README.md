@@ -1,3 +1,3 @@
-vue.js practice
+Vue.js practice
 
-Download the api before using this: https://github.com/ReynaldyNC/MyVueApp-Api
+API: https://github.com/ReynaldyNC/MyVueApp-Api
